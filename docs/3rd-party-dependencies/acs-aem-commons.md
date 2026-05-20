@@ -5,7 +5,7 @@
 
 ## Supported versions
 
-AEM as Cloud Service requires a minimum version of 6.12.0 of ACS AEM Commons.
+AEM as Cloud Service requires a minimum version of 6.17.2 of ACS AEM Commons.
 
 
 ## Inclusion
