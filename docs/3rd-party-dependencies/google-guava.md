@@ -8,13 +8,13 @@ In AEM the use of this library is deprecated (many of its functionality has been
 
 For that reason there 2 ways how to handle this situation:
 
-### Remove all dependencies to Google Guava
+### Option 1: Remove all dependencies to Google Guava
 
 AEM CS operates with a Java 21 runtime; for that reason in many cases the use of Guava code can be easily replaced with functionality from the standard Runtime Library.
 
 This is definitely the recommended way to go, unless you are using very specialized functionality from Guava, which cannot be replaced.
 
-### Ship Google Guava with the custom AEM application
+### Option 2: Ship Google Guava with the custom AEM application
 
 As short-time mitigation, it is possible to ship the Google Guava library in the custom AEM code. To achieve that you need to implement the following changes.
 
