@@ -20,5 +20,5 @@ If you are using any of the below 3rd party libraries, preferably update to the 
 | Adobe Commerce Magento GraphQL | `com.adobe.commerce.cif:magento-graphql` | **11.2.2** |
 | Adobe I/O Events OSGi lib | `com.adobe.aio.aem:aio-lib-osgi` | **2.0.12** |
 | Adobe I/O Events for AEM | `com.adobe.aio.aem:aio-aem-events` | **2.0.2** |
-| Adobe AEM Assetshare | `com.adobe.aem.commons.assetshare.core` | **3.16.6** |
+| Adobe AEM Assetshare | `com.adobe.aem.commons.assetshare.core` | **3.13.8** |
 | io.wcm CAConfig Extensions | `io.wcm:io.wcm.caconfig.extensions` | **1.9.6** |
